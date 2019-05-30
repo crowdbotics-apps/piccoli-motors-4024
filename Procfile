@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT piccoli_motors_4024.wsgi:application
